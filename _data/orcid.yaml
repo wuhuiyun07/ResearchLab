@@ -1,1 +1,7 @@
-- orcid: 0000-0002-4655-3773
+# Every publication attached to these ORCID records is fetched automatically
+# and added to the Publications list. Replace the line below with your own
+# ORCID, which you can find (or create) at https://orcid.org.
+#
+# Keep the quotes off and the leading dash on.
+
+- orcid: 0000-0000-0000-0000

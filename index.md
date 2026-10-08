@@ -1,34 +1,43 @@
 ---
 ---
 
-<!-- # The Huiyun Wu Lab -->
+# Microbial Water Quality Lab
 
-Our lab is a conduct research in areas such as Microbial water quality, water reuse and cycles, bioinformatics, one health, and fate and transport models.
+We study the microorganisms in water that make people sick, and the engineering
+that removes them — from a wastewater sample to a treatment decision a utility
+can act on.
+
+The lab sits in the [Department of Civil and Environmental Engineering](https://ce.wsu.edu/)
+at Washington State University, in the
+[Voiland College of Engineering and Architecture](https://vcea.wsu.edu/).
 
 {%
   include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+  type="email"
+  text="huiyun.wu@wsu.edu"
+  link="huiyun.wu@wsu.edu"
 %}
 {%
   include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
+  type="google-scholar"
+  text="Google Scholar"
+  link="https://scholar.google.com/citations?user=sAIJSssAAAAJ"
 %}
 
 {% include section.html %}
 
-## Highlights
+## What we work on
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Wastewater surveillance, virus removal and reuse, prophage ecology, source
+tracking and transport modelling, biofilms, and the sequencing and bioinformatics
+that hold it together.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research and publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -38,20 +47,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/water.jpg"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+An 840 square foot biosafety level 2 environmental virology laboratory in the
+PACCAR Environmental Technology Building, with long-read sequencing, digital and
+quantitative polymerase chain reaction, and a dedicated node on the university's
+computing cluster.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="team"
+  text="Meet the group"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -61,33 +73,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/river-band.jpg"
+  link="team"
+  title="The lab"
   flip=true
-  style="bare"
   text=text
 %}
 
-{% capture text %}
+{% include section.html background="images/dusk.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Join the lab
 
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+We have funding for graduate research assistants entering the master's or
+doctoral program, and positions for undergraduate researchers.
 
-{% endcapture %}
+You do not need a background in microbiology. Students arrive here from
+environmental engineering, biology, public health and computer science, and the
+methods are learned on the way. What matters is that you want to know whether
+something is true and are willing to do the measurement that settles it.
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+Write to [huiyun.wu@wsu.edu](mailto:huiyun.wu@wsu.edu) with a short note about
+what interests you and a curriculum vitae. Tell me what you have worked on and
+what you would like to work on next; a long formal letter is not necessary.

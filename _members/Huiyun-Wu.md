@@ -1,12 +1,35 @@
 ---
 name: Huiyun Wu
-image: images/photo.jpg
-role: pi
-# aliases:
-#   - J. Smith
-#   - J Smith
+image: images/portrait.jpg
+role: principal-investigator
+affiliation: Washington State University
+aliases:
+  - H. Wu
+  - H Wu
+  - Huiyun Wu
 links:
-  home-page: https://wsu.edu
-  orcid: 0000-0001-8935-7759
+  email: huiyun.wu@wsu.edu
+  home-page: https://ce.wsu.edu/faculty/huiyun-wu/
+  google-scholar: sAIJSssAAAAJ
+  # orcid: 0000-0000-0000-0000
 ---
-Dr. Huiyun Wu is an Environmental Engineer specialized for microbial water quality research. Currenting serving as a Postdoctoral Fellow in the Department of Environmental Health Sciences in the School of Public Health & Tropical Medicine at Tulane University, Dr. Wu received a Ph.D. in Environmental Engineering from Michigan State University. Following the doctoral studies, Dr. Wu undertook a two-year Oak Ridge Institute for Science and Education (ORISE) fellowship with the U.S. Environmental Protection Agency (EPA) in Research Triangle Park, North Carolina. Dr. Wu’s research is focused on data-driven strategies for advancing water sustainability, molecular microbiology applications, and environmental microbiome investigation. Dr. Wu has worked on multiple interdisciplinary research projects, including water reuse, wastewater-based epidemiology and sanitary sewage overflow survey, environmental metagenomics, microbial source tracking, stormwater management, and microbial water quality modeling. Dr. Huiyun Wu has passed the Fundamentals of Engineering (FE) and Principles and Practice of Engineering (PE) exams in Environmental Engineering and is pursuing a PE license. 
+
+Assistant Professor of Civil and Environmental Engineering. Her work runs from
+field sampling at treatment plants through molecular and sequencing methods to the
+models and risk assessments that utilities and regulators use.
+
+She joined Washington State University in 2024. Before that she held a
+postdoctoral appointment in Environmental Health Sciences at Tulane University
+with Tiong Gim Aw, and spent three years as a research fellow at the United States
+Environmental Protection Agency, Office of Research and Development, with Marirosa
+Molina, working on water reuse.
+
+She completed her doctorate and master's degree in environmental engineering at
+Michigan State University with Irene Xagoraraki, and holds a bachelor's degree in
+environmental science. She passed the Principles and Practice of Engineering
+examination in environmental engineering in 2020.
+
+She serves on the Groundwater Technical Advisory Committee of the Washington State
+Department of Ecology, and on a Water Research Foundation project advisory
+committee. She teaches stormwater management and hazardous contaminant pathway
+analysis.

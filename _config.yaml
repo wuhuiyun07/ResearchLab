@@ -1,21 +1,23 @@
+# Paste this over the FIRST TWO BLOCKS of your existing _config.yaml —
+# everything from "title:" down to the end of the "links:" section.
+# Leave everything below that (jekyll settings, collections, plugins, sass)
+# exactly as it is.
+
 # site properties and page defaults
-title: The Health-related Water Microbiology Lab
-subtitle: Department of Civil and Environmental Engineering
-description: Study microbioal Water Quality using molecular genetic tools and bioinformatics tools; Aiming to conduct open science research
-   #An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/icon.png
-footer: images/MisRiver.HEIC
+title: Microbial Water Quality Lab
+subtitle: Huiyun Wu · Washington State University
+description: We study the microorganisms in water that make people sick, and the engineering that removes them. Civil and Environmental Engineering, Washington State University.
+header: images/water.jpg
+footer: images/dusk.jpg
 proofer: false
 
 # site social media and other links
 links:
   email: huiyun.wu@wsu.edu
-  orcid: 0000-0001-8935-7759
   google-scholar: sAIJSssAAAAJ
   github: wuhuiyun07
-  # website:
-  # twitter: YourLabHandle
-  # youtube: YourLabChannel
+  orcid: 0000-0001-8935-7759      # uncomment and fill in once you have it
+
 
 ### jekyll settings
 
